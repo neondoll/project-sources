@@ -1,29 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg id="phpstorm" version="1.0" viewBox="0 0 70 70" xmlns="http://www.w3.org/2000/svg">
-    <linearGradient gradientUnits="userSpaceOnUse" id="phpstorm-gradient-1" x1="0.558" y1="46.8457" x2="29.9473"
-                    y2="8.0256">
+    <title>PhpStorm</title>
+    <linearGradient id="phpstorm-gradient-1" x1="0.558" y1="46.8457" x2="29.9473" y2="8.0256"
+                    gradientUnits="userSpaceOnUse">
         <stop offset="1.612903e-002" stop-color="#765af8"/>
         <stop offset="0.3821" stop-color="#b345f1"/>
         <stop offset="0.7581" stop-color="#fa3293"/>
         <stop offset="0.9409" stop-color="#ff318c"/>
     </linearGradient>
-    <linearGradient gradientUnits="userSpaceOnUse" id="phpstorm-gradient-2" x1="2.7297" y1="48.3788" x2="32.0719"
-                    y2="9.6209">
+    <linearGradient id="phpstorm-gradient-2" x1="2.7297" y1="48.3788" x2="32.0719" y2="9.6209"
+                    gradientUnits="userSpaceOnUse">
         <stop offset="1.612903e-002" stop-color="#765af8"/>
         <stop offset="0.3821" stop-color="#b345f1"/>
         <stop offset="0.7581" stop-color="#fa3293"/>
         <stop offset="0.9409" stop-color="#ff318c"/>
     </linearGradient>
-    <linearGradient gradientUnits="userSpaceOnUse" id="phpstorm-gradient-3" x1="50.8568" y1="46.405" x2="34.2739"
-                    y2="7.0481">
+    <linearGradient id="phpstorm-gradient-3" x1="50.8568" y1="46.405" x2="34.2739" y2="7.0481"
+                    gradientUnits="userSpaceOnUse">
         <stop offset="0.1828" stop-color="#765af8"/>
         <stop offset="0.2382" stop-color="#8655f6"/>
         <stop offset="0.3449" stop-color="#9f4cf3"/>
         <stop offset="0.4425" stop-color="#ae47f2"/>
         <stop offset="0.5219" stop-color="#b345f1"/>
     </linearGradient>
-    <linearGradient gradientUnits="userSpaceOnUse" id="phpstorm-gradient-4" x1="63.2656" y1="57.3388" x2="24.6977"
-                    y2="27.5158">
+    <linearGradient id="phpstorm-gradient-4" x1="63.2656" y1="57.3388" x2="24.6977" y2="27.5158"
+                    gradientUnits="userSpaceOnUse">
         <stop offset="1.612903e-002" stop-color="#765af8"/>
         <stop offset="0.3821" stop-color="#b345f1"/>
     </linearGradient>
